@@ -1,4 +1,8 @@
 Kocho Shinobu
 
+<<<<<<< HEAD
 
 Kocho Shinobu é a hashira do inseto.
+=======
+Kocho Shinobu é a hashira do inseto!
+>>>>>>> a1ebfdc16659553aaa149182a960c0a0f6422ff4
